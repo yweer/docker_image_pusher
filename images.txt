@@ -1,2 +1,1 @@
-DouyinLiveRecorder
-wewe-rss
+wewe-rss:v2.4.1
