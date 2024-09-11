@@ -1,1 +1,1 @@
-wewe-rss:v2.4.1
+wewe-rssv2.4.1
