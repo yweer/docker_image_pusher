@@ -1,3 +1,3 @@
 cooderl/wewe-rss-sqlite:latest
 ddsderek/xiaoyakeeper
-xiaoyaliu/alist
+dds-derek/xiaoya-alist
