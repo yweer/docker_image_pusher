@@ -1,3 +1,3 @@
 cooderl/wewe-rss-sqlite:latest
 ddsderek/xiaoyakeeper
-docker.xiaoya.pro
+xiaoya-assistant
