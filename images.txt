@@ -1,4 +1,3 @@
 cooderl/wewe-rss-sqlite:latest
 ddsderek/xiaoyakeeper
-wghaos/xiaoya-alist
-
+xiaoyaliu/alist:hostmode
