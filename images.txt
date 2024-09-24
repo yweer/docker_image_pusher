@@ -1,3 +1,4 @@
 cooderl/wewe-rss-sqlite:latest
 ddsderek/xiaoyakeeper
 xiaoyaliu/alist:hostmode
+miui-auto-tasks
