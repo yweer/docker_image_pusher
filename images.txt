@@ -1,1 +1,2 @@
-mlikiowa/napcat-docker
+qdtoday/qd:lite-dev
+qdtoday/qd:latest
