@@ -1,2 +1,1 @@
-qdtoday/qd:lite-dev
-qdtoday/qd:latest
+ghcr.io/snailyp/gemini-balance:latest
