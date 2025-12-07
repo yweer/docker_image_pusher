@@ -1,2 +1,1 @@
-jxxghp/moviepilot-v2:latest
-mlikiowa/napcat-docker:latest
+ogarcia/archlinux
