@@ -1,1 +1,1 @@
-whyour/qinglong
+whyour/qinglong:debian
